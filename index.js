@@ -4,7 +4,7 @@ import fetch from "node-fetch";
 const app = express();
 const PORT = process.env.PORT || 3000;
 const SELF_URL = "https://exertiivedata.onrender.com/leaderboard/top14";
-const API_KEY = "3duNGys32gmPaDvgBVDoyXFy0LMkhb8P";
+const API_KEY = "NBknbiLnH8IkrTVhO4j77uTgpyTlxFg7";
 
 let cachedData = [];
 
